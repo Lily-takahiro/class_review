@@ -62,7 +62,7 @@ print(tom.to_tsv())  # Tom Ford<TAB>57<TAB>1500
 print(ieyasu.to_tsv())  # Ieyasu Tokugawa<TAB>75<TAB>500
 print(michelle.to_tsv())  # Michelle Tanner<TAB>3<TAB>0
 
-
+# C-8単一顧客の情報取得形式の追加その2
 print(ken.to_pipe())  # Ken Tanaka<pipe>15<pipe>1000
 print(tom.to_pipe())  # Tom Ford<pipe>57<pipe>1500
 print(ieyasu.to_pipe())  # Ieyasu Tokugawa<pipe>75<pipe>500
